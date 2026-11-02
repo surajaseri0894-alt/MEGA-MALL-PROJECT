@@ -127,7 +127,7 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/surajaseri0894-alt/MEGA-MALL-PROJECT.git)
+- GitHub: [github](https://github.com/surajaseri0894-alt/MEGA-MALL-PROJECT.git)
 
 ---
 
