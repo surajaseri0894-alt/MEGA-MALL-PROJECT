@@ -127,7 +127,7 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@your-username](@surajaseri0894-alt)
 
 ---
 
